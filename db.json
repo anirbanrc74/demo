@@ -176,6 +176,13 @@
       "regions": [],
       "code": "DNT",
       "advice": "FCO advises against all but essential travel"
+    },
+    {
+	    "date": "2020-04-21T00:00:00",
+	    "country": "France",
+	    "regions": [],
+	    "code": "DNT",
+	    "advice": "FCO advises against all but essential travel"
     }
 
   ],
